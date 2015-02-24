@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'factory_girl_rails', "~> 4.0"
+
 # include Bootstrapp framework 
 gem 'bootstrap-sass', '~> 3.3.0'
 gem 'autoprefixer-rails'
